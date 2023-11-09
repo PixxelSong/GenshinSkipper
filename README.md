@@ -1,5 +1,6 @@
 ### 手柄玩家的自动过原神对话工具
 ##### 使用：
+先装个驱动，[ViGEmBusSetup_x64.msi](ViGEmBusSetup_x64.msi)
 打开main.exe,
 双击 ESC 键启用，再次双击关闭
 
